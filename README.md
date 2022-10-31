@@ -1,6 +1,6 @@
 # clock
 
- It is a JavaScript clock Projct Its shows the Hour,minutes and seconds
+It is a JavaScript clock Project Its shows the Hour,minutes and seconds
   
 
 
